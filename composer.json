@@ -1,0 +1,16 @@
+{
+    "name": "racingfever/alexa-mirror-route-webservice",
+    "description": "Webservice for mirror, called trough Alexa, that displays route info:traffic & delay info. This is the composer package",
+    "type": "library",
+    "license": "GPL-3.0",
+    "authors": [
+        {
+            "name": "racingfever",
+            "email": "d.woertman@prowareness.nl"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {
+        "php": "^5.5"
+    }
+}
